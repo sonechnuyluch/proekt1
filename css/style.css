@@ -1,0 +1,54 @@
+body{
+    width: 1000px;
+    background-color:rgb(240, 200, 151);
+    margin: 0 auto;
+}
+
+div{
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+    background-color: blueviolet;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
+
+#header{
+    background-color: chocolate;
+}
+
+.item{
+    background-color: chartreuse;
+}
+
+#footer{
+    background-color: rgb(46, 45, 45);
+    color: rgb(229, 218, 218);
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    color: brown;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    background-color: bisque;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5chpx brown;
+}
+
+h1, h2{
+    font-family: "Montserrat Underline", sans-serif;
+}
+
+p{
+    font-family: "Yuji Mai", serif;  
+}
